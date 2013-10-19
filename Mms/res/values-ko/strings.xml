@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="menu_add_to_calendar">캘린더에 추가</string>
     <string name="button_close">닫기</string>
@@ -146,8 +146,7 @@
     <string name="expire_on">만료 날짜: %s</string>
     <string name="kilobyte">KB</string>
     <string name="undelivered_msg_dialog_title">전송되지 않은 메시지</string>
-    <string name="undelivered_msg_dialog_body">"메시지를 보내지 못했습니다.
-마지막으로 시도한 시각: %s"</string>
+    <string name="undelivered_msg_dialog_body">"메시지를 보내지 못했습니다.마지막으로 시도한 시각: %s"</string>
     <string name="undelivered_sms_dialog_body">메시지를 보내지 못했습니다.</string>
     <string name="delete_thread">대화목록 삭제</string>
     <string name="menu_forward">전달</string>
