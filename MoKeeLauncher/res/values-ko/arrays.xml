@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_homescreen_indicator_position_entries">
+        <item>독위</item>
+        <item>상단</item>
+        <item>하단</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_indicator_position_entries">
+        <item>상단/좌측</item>
+        <item>하단/우측</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_orientation_entries">
+        <item>가로</item>
+        <item>세로</item>
+    </string-array>
+    <string-array name="gesture_target_names">
+        <item>없음</item>
+        <item>상태바 확장</item>
+        <item>기본 홈 화면으로 이동</item>
+        <item>어플 서랍 열기</item>
+        <item>미리보기 표시</item>
+        <item>런처 설정 열기</item>
+    </string-array>
+</resources>

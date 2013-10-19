@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="n_folders">
+        <item quantity="other">%1$d개 폴더</item>
+        <item quantity="one">1개 폴더</item>
+    </plurals>
+    <plurals name="n_files">
+        <item quantity="other">%1$d개 파일</item>
+        <item quantity="one">1개 파일</item>
+    </plurals>
+    <plurals name="search_found_items">
+        <item quantity="other">%d개 항목 발견</item>
+        <item quantity="one">1개 항목 발견</item>
+    </plurals>
+    <plurals name="selection_folders">
+        <item quantity="other">%1$d개 폴더 선택.</item>
+        <item quantity="one">1개 폴더 선택.</item>
+    </plurals>
+    <plurals name="selection_files">
+        <item quantity="other">%1$d개 파일 선택.</item>
+        <item quantity="one">1개 파일 선택.</item>
+    </plurals>
+</resources>

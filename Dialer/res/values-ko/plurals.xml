@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d개를 찾았습니다.</item>
+        <item quantity="one">1개를 찾았습니다.</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">1시간</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d분</item>
+        <item quantity="one">1분</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d초</item>
+        <item quantity="one">1초</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="other">%d건 통화</item>
+        <item quantity="one">1건 통화</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d개의 음성사서함</item>
+        <item quantity="one">음성사서함</item>
+    </plurals>
+</resources>

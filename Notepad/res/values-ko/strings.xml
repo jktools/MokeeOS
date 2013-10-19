@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoKee 노트 패드</string>
+    <string name="live_folder_name">노트</string>
+    <string name="title_edit_title">노트 제목:</string>
+    <string name="title_create">노트 작성</string>
+    <string name="title_edit">편집: \"%1$s\"</string>
+    <string name="menu_add">노트 추가</string>
+    <string name="menu_save">저장</string>
+    <string name="menu_delete">삭제</string>
+    <string name="menu_open">열기</string>
+    <string name="menu_revert">변경 사항 되돌리기</string>
+    <string name="menu_discard">취소</string>
+    <string name="button_ok">확인</string>
+    <string name="text_title">제목:</string>
+    <string name="resolve_edit">노트 편집</string>
+    <string name="resolve_title">제목 수정</string>
+    <string name="error_title">오류</string>
+    <string name="error_message">노트 읽는중 오류발생</string>
+    <string name="nothing_to_save">저장할 내용이 아무것도 없습니다</string>
+    <string name="please_edit_title">제목을 편집하십시오</string>
+    <string name="sure_to_delete">이 노트를 삭제 하시겠습니까?</string>
+    <string name="dialog_ok">확인</string>
+    <string name="dialog_no">아니오</string>
+    <string name="is_to_save">저장 하시겠습니까?</string>
+    <string name="is_to_delete">삭제 하시겠습니까?</string>
+</resources>

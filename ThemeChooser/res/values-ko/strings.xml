@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">테마</string>
+    <string name="menu_apply">적용</string>
+    <string name="menu_uninstall">제거</string>
+    <string name="menu_about">소개</string>
+    <string name="theme_current">%s (현재)</string>
+    <string name="theme_current_author">제작자:</string>
+    <string name="theme_current_name">이름:</string>
+    <string name="theme_current_package">패키지:</string>
+    <string name="theme_change_dialog_title">적용중...</string>
+    <string name="switching_to_theme">%s 적용중...</string>
+    <string name="item_count">%1$d/%2$d</string>
+    <string name="dialog_theme_error_title">테마 오류</string>
+    <string name="dialog_missing_host_density_msg">죄송합니다,이 테마는 장치의 화면 크기에 대한 부분이 누락되었습니다.</string>
+    <string name="dialog_missing_theme_package_scope_msg">이 테마가 잘못 컴파일되었으며 적용 할 수 없습니다. 테마 작성자에 이 문제를 신고 해주세요.</string>
+    <string name="dialog_apply_anyway_btn">적용</string>
+    <string name="dialog_bummer_btn">취소</string>
+</resources>

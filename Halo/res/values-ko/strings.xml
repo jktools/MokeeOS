@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HALO)))</string>
+    <string name="tap_to_launch">클릭하여 앱을 실행합니다.</string>
+    <string name="start">시작</string>
+    <string name="stop">중지</string>
+    <string name="add">추가</string>
+    <string name="choose_app">애플리케이션 선택</string>
+    <string name="icon_picker_type">아이콘 유형 선택:</string>
+    <string name="icon_default">기본값</string>
+    <string name="icon_custom">사용자</string>
+    <string name="unknown">알수 없음</string>
+    <string name="stop_to_remove">목록에 있는 앱을 제거하기 전에 서비스를 중지해야 합니다.</string>
+    <string name="ext_notes">참고</string>
+    <string name="ext_note1">참고 1</string>
+    <string name="ext_note2">참고 2</string>
+    <string name="ext_note3">참고 3</string>
+    <string name="ext_note4">참고 4</string>
+    <string name="extensions">확장</string>
+    <string name="helper_static_2">HALO))) 사용법</string>
+    <string name="helper_static_3">HALO)))는 이해하기 매우 간단합니다. 그냥 작업 표시줄에 추가(Pin) 버튼을 누릅니다. 버튼은 화면의 상단이나 하단에 있을수도 있습니다.</string>
+    <string name="helper_static_4">다음, 목록에서 Halo에 고정을 원하는 애플리케이션을 클릭합니다.</string>
+    <string name="helper_static_5">마지막으로, 시작 버튼을 클릭하면 완료됩니다. HALO)))를 사용하지 않으려면 일시정지 버튼을 클릭합니다.</string>
+    <string name="description_1">도우미 1</string>
+    <string name="description_2">도우미 2</string>
+    <string name="description_3">도우미 3</string>
+    <string name="preferenceicon_imageview">환경 설정 아이콘 이미지보기</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">테마 제공</string>
+    <string name="permlab_access_DrmThemeResources">DRM으로 보호되는 미디어 리소스를 읽기</string>
+    <string name="permdesc_access_DrmThemeResources">응용 프로그램이 테마 패키지의 DRM으로 보호된 미디어 리소스에 대한 액세스를 할수 있도록 합니다</string>
+    <string name="permlab_set_theme">전 세계적으로 적용된 테마 설정</string>
+    <string name="permdesc_set_theme">응용 프로그램이 휴대 전화의 시각적 테마를 변경할수 있습니다.</string>
+</resources>
