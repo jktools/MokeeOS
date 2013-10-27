@@ -114,6 +114,7 @@
     <string name="weather_alternate_icons_summary">기본(컬러)과 대체(화이트) 아이콘 사이를 전환하려면 선택</string>
     <string name="weather_show_when_minimized_title">최소화 할때 표시</string>
     <string name="weather_show_when_minimized_summary">위젯을 최소화 할때 요약 날씨 정보를 표시합니다</string>
+	<string name="weather_select_location">위치 선택</string>
     <string name="calendar_title">다음 일정 표시</string>
     <string name="calendars_title">캘린더 일정</string>
     <string name="calendars_summary">캘린더의 일정 찾기</string>

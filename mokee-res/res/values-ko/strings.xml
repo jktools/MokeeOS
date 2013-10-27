@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_fastChargePath">/sys/kernel/fast_charge/force_fast_charge</string>
+    <string name="lc">오전</string>
+    <string name="lm">오전</string>
+    <string name="zc">오전</string>
+    <string name="sw">오전</string>
+    <string name="zw">오후</string>
+    <string name="xw">오후</string>
+    <string name="bw">오후</string>
+    <string name="sy">오후</string>
+    <string name="status_year">년</string>
+    <string name="status_month">월</string>
+    <string name="status_day">일</string>
+    <string name="status_leap">윤</string>
+    <string name="status_chushi">십</string>
+    <string name="status_ershi">이십</string>
+    <string name="status_sanshi">삼십</string>
+    <string name="status_format1">yyyy년MM월dd일</string>
+    <string name="status_format2">1900년1월31일</string>
+    <string name="trash">휴지통</string>
+    <string name="animation_fade">페이드</string>
+    <string name="animation_slide_right">오른쪽 슬라이드</string>
+    <string name="animation_slide_left">왼쪽 슬라이드</string>
+    <string name="animation_slide_right_no_fade">오른쪽 슬라이드 (페이드 없음)</string>
+    <string name="animation_slide_left_no_fade">왼쪽 슬라이드 (페이드 없음)</string>
+    <string name="animation_slide_up">아래로 슬라이드</string>
+    <string name="animation_slide_down">위로 슬라이드</string>
+    <string name="animation_default">기본값</string>
+    <string name="animation_translucent">반투명</string>
+    <string name="animation_grow_shrink">그로우 (위)</string>
+    <string name="animation_grow_shrink_center">그로우 (중앙)</string>
+    <string name="animation_grow_shrink_bottom">그로우 (아래)</string>
+    <string name="animation_grow_shrink_left">그로우 (왼쪽)</string>
+    <string name="animation_grow_shrink_right">그로우 (오른쪽)</string>
+    <string name="action_null">비어있음</string>
+</resources>

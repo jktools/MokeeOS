@@ -143,7 +143,8 @@
     <string name="listCustomView">주소록 맞춤 보기</string>
     <string name="listSingleContact">단일 연락처</string>
     <string name="dialog_new_contact_account">연락처 추가할 계정 선택하기</string>
-    <string name="import_from_sim">SIM 카드에서 가져오기</string>
+    <string name="manage_sim_contacts">SIM 카드 연락처 관리</string>
+    <string name="export_to_sim">SIM 카드로 내보내기</string>
     <string name="import_from_sdcard">저장소에서 가져오기</string>
     <string name="cancel_import_confirmation_message">%s 가져오기를 취소하시겠습니까?</string>
     <string name="cancel_export_confirmation_message">%s 내보내기를 취소하시겠습니까?</string>
@@ -217,6 +218,10 @@
     <string name="menu_import_export">가져오기/내보내기</string>
     <string name="description_send_message">%1$s님에게 메시지 보내기</string>
     <string name="description_dial_phone_number">%1$s님에게 전화걸기</string>
+    <string name="Import_All">모든 SIMs에서 연락처 가져 오기</string>
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="select_sim">SIM 선택</string>
     <string name="help_url_people_main" />
     <string name="help_url_people_add" />
     <string name="help_url_people_edit" />
