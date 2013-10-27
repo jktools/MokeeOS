@@ -117,7 +117,7 @@
     <string name="confCall">다자간 통화</string>
 	<string name="call_lost">통화가 끊겼습니다.</string>
     <string name="retry">재시도</string>
-    <string name="call_lost">통화가 끊겼습니다.</string>
+    <string name="call_lost_title">통화 끊김</string>
     <string name="ok">확인</string>
     <string name="mmiStarted">MMI 코드 시작됨</string>
     <string name="ussdRunning">USSD 코드 실행 중...</string>

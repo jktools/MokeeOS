@@ -125,10 +125,10 @@
     <string name="pending_mms">메시지: 하나 이상의 MMS가 보류됩니다.</string>
     <string name="pending_mms_text">구독을 전환하려면 터치합니다.</string>
     <string name="abort_mms">메시지 : MMS 중지</string>
-    <string name="abort_mms_text ">터치하여 중단 및 다시 전환</string>
+    <string name="abort_mms_text">터치하여 중단 및 다시 전환</string>
     <string name="progress_mms_title">진행중인 다른 하위에 MMS 처리</string>
     <string name="progress_mms">메시지: MMS 진행 중 ...</string>
-    <string name="progress_mms_text ">다시 시도하려면 터치합니다</string>
+    <string name="progress_mms_text">다시 시도하려면 터치합니다</string>
     <string name="search_bar_hint">연락처 검색</string>
     <string name="btn_ok">확인</string>
     <string name="btn_cancel">취소</string>
