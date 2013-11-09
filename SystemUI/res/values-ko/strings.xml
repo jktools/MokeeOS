@@ -111,8 +111,7 @@
     <string name="battery_low_title">충전기를 연결하세요.</string>
     <string name="battery_low_subtitle">배터리가 얼마 남지 않았습니다.</string>
     <string name="battery_low_percent_format">%d%% 남음</string>
-    <string name="invalid_charger">"USB 충전이 지원되지 않습니다.
-제공된 충전기만 사용하세요."</string>
+    <string name="invalid_charger">"USB 충전이 지원되지 않습니다. 제공된 충전기만 사용하세요."</string>
     <string name="battery_low_why">배터리 사용량</string>
     <string name="status_bar_settings_settings_button">설정</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
@@ -136,8 +135,7 @@
     <string name="always_use_device">이 USB 기기에 기본값으로 사용</string>
     <string name="always_use_accessory">이 USB 액세서리에 기본값으로 사용</string>
     <string name="usb_debugging_title">USB 디버깅을 허용하시겠습니까?</string>
-    <string name="usb_debugging_message">"컴퓨터 RSA 키 지문:
-%1$s"</string>
+    <string name="usb_debugging_message">"컴퓨터 RSA 키 지문: %1$s"</string>
     <string name="usb_debugging_always">이 컴퓨터에서 항상 허용</string>
     <string name="compat_mode_on">전체화면 모드로 확대</string>
     <string name="compat_mode_off">전체화면 모드로 확대</string>
@@ -237,9 +235,7 @@
     <string name="data_usage_disabled_dialog_4g_title">4G 데이터 사용중지됨</string>
     <string name="data_usage_disabled_dialog_mobile_title">모바일 데이터 사용중지됨</string>
     <string name="data_usage_disabled_dialog_title">데이터 사용중지됨</string>
-    <string name="data_usage_disabled_dialog">"지정된 데이터 사용 한도에 도달했습니다.
-
-데이터 연결을 다시 사용하면 통신사에서 요금이 부과될 수도 있습니다."</string>
+    <string name="data_usage_disabled_dialog">"지정된 데이터 사용 한도에 도달했습니다. 데이터 연결을 다시 사용하면 통신사에서 요금이 부과될 수도 있습니다."</string>
     <string name="data_usage_disabled_dialog_enable">데이터 연결 다시 사용</string>
     <string name="status_bar_settings_signal_meter_disconnected">인터넷에 연결되지 않음</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi 연결됨</string>
@@ -281,6 +277,5 @@
     <string name="quick_settings_brightness_dialog_title">밝기</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">자동</string>
     <string name="status_bar_help_title">알림이 여기에 표시됨</string>
-    <string name="status_bar_help_text">"아래로 스와이프하여 언제든 액세스하세요.
-한 번 더 아래로 스와이프하면 시스템 관리로 이동합니다."</string>
+    <string name="status_bar_help_text">"아래로 스와이프하여 언제든 액세스하세요. 한번 더 아래로 스와이프하면 시스템 관리로 이동합니다."</string>
 </resources>

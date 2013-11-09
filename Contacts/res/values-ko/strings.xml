@@ -143,7 +143,8 @@
     <string name="listCustomView">주소록 맞춤 보기</string>
     <string name="listSingleContact">단일 연락처</string>
     <string name="dialog_new_contact_account">연락처 추가할 계정 선택하기</string>
-    <string name="import_from_sim">SIM 카드에서 가져오기</string>
+    <string name="manage_sim_contacts">SIM 카드 연락처 관리</string>
+    <string name="export_to_sim">SIM 카드로 내보내기</string>
     <string name="import_from_sdcard">저장소에서 가져오기</string>
     <string name="cancel_import_confirmation_message">%s 가져오기를 취소하시겠습니까?</string>
     <string name="cancel_export_confirmation_message">%s 내보내기를 취소하시겠습니까?</string>
@@ -169,8 +170,7 @@
     <string name="composer_has_no_exportable_contact">내보낼 수 있는 연락처가 없습니다. 휴대전화에 연락처가 있다면 일부 데이터 제공업체에서 연락처를 휴대전화에서 내보내지 못하도록 했기 때문일 수 있습니다.</string>
     <string name="composer_not_initialized">vCard 작성기가 제대로 시작되지 않았습니다.</string>
     <string name="exporting_contact_failed_title">내보내기 실패</string>
-    <string name="exporting_contact_failed_message">"주소록 데이터를 내보내지 못했습니다.
-(이유: '%s')"</string>
+    <string name="exporting_contact_failed_message">"주소록 데이터를 내보내지 못했습니다.(이유: '%s')"</string>
     <string name="no_sdcard_message">저장공간을 찾을 수 없습니다.</string>
     <string name="confirm_export_message">연락처 목록을 %s 파일로 내보냅니다.</string>
     <string name="importing_vcard_description">%s 가져오는 중</string>
@@ -218,6 +218,10 @@
     <string name="menu_import_export">가져오기/내보내기</string>
     <string name="description_send_message">%1$s님에게 메시지 보내기</string>
     <string name="description_dial_phone_number">%1$s님에게 전화걸기</string>
+    <string name="Import_All">모든 SIMs에서 연락처 가져 오기</string>
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="select_sim">SIM 선택</string>
     <string name="help_url_people_main" />
     <string name="help_url_people_add" />
     <string name="help_url_people_edit" />
@@ -328,11 +332,7 @@
     <string name="pick_new_photo">갤러리에서 새 사진 선택</string>
     <string name="locale_change_in_progress">변경된 언어를 반영하도록 주소록을 업데이트하는 중입니다. 잠시 기다려 주세요.</string>
     <string name="upgrade_in_progress">주소록을 업데이트하고 있습니다.</string>
-    <string name="upgrade_out_of_memory">"주소록을 업그레이드하는 중입니다. 
-
-업그레이드 하려면 약 %sMB의 내부 저장공간이 필요합니다.
-
-다음 옵션 중 하나를 선택하세요."</string>
+    <string name="upgrade_out_of_memory">"주소록을 업그레이드하는 중입니다. 업그레이드 하려면 약 %sMB의 내부 저장공간이 필요합니다. 다음 옵션 중 하나를 선택하세요."</string>
     <string name="upgrade_out_of_memory_uninstall">일부 애플리케이션 제거</string>
     <string name="upgrade_out_of_memory_retry">업그레이드 다시 시도</string>
     <string name="menu_display_selected">선택한 항목 표시</string>
@@ -386,10 +386,7 @@
     <string name="local_profile_title">내 로컬 프로필</string>
     <string name="external_profile_title">내 %1$s 프로필</string>
     <string name="toast_displaying_all_contacts">모든 연락처 표시</string>
-    <string name="no_account_prompt">"인물 앱은 Google 계정에서 사용할 때 더 효과적입니다.
-
-• 어떤 웹 브라우저에서든 액세스하세요.
-• 주소록을 안전하게 백업하세요."</string>
+    <string name="no_account_prompt">"인물 앱은 Google 계정에서 사용할 때 더 효과적입니다.\n• 어떤 웹 브라우저에서든 액세스하세요.\n• 주소록을 안전하게 백업하세요."</string>
     <string name="generic_no_account_prompt">온라인 서비스와 동기화되므로 휴대전화를 잃어버려도 주소록을 안전하게 유지할 수 있습니다.</string>
     <string name="generic_no_account_prompt_title">계정 추가</string>
     <string name="contact_editor_prompt_zero_accounts">새 연락처는 백업되지 않습니다. 온라인에 주소록을 백업할 계정을 추가하시겠습니까?</string>
